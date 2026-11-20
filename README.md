@@ -1,4 +1,4 @@
-# Dashboard Comic Universe
+# Dashboard Comics Universe
 
 Este projeto propõe a análise de 1.000 personagens dos universos Marvel e DC Comics.
 
