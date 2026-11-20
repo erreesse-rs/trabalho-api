@@ -8,3 +8,6 @@ Por meio do dashboard desenvolvido, é possível identificar os personagens com 
 * **Universo e narrativa:** poderes, equipes, criadores e os principais conceitos ou temas presentes nas histórias.
 
 Todas essas métricas podem ser exploradas dinamicamente por meio de filtros por **editora**, **gênero**, **origem** e **quantidade de aparições**.
+
+O dashboard pode ser visualizado através do link: https://marveldcdashboard.oneapp.dev/
+Nele, você precisará fazer o upload do arquivo 'base_dashboard_marvel_dc.xlsx' que estará disponível aqui.
